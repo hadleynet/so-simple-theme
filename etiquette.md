@@ -78,4 +78,4 @@ Junior teaching titles are modified at the end by "-so".  <a href="#fnref:2" rel
     </li>
   </ol>
 </div>
-[^1]: 
+
